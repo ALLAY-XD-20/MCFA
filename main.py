@@ -97,8 +97,9 @@ class Capture:
                     .replace("<banned>", self.banned or "Unknown")
                     .replace("<namechange>", self.namechanged or "N/A")
                     .replace("<lastchanged>", self.lastchanged or "N/A")
-                    .replace("<type>", self.type or "N/A"),
-                "username": "MSMC"
+                    .replace("<type>", self.type or "N/A")
+                    .replace("BY SYSTEM BY ALLAY_XD_20 GITHUB ALLAY-XD-20"),
+                "username": "ALPHA-DEV"
             }
             requests.post(config.get('webhook'), data=json.dumps(payload), headers={"Content-Type": "application/json"})
         except: pass
