@@ -19,6 +19,7 @@ MCFA is a powerful Minecraft account checker that verifies Microsoft and Mojang 
 - ✅ Auto proxy scraping + HTTP/SOCKS4/SOCKS5 support
 - ✅ Discord webhook notifications
 - ✅ Real-time stats, CPM, retries
+- ✅ donutsmp chakker is added 
 - ✅ Full config customization via `config.ini`
 
 ---
