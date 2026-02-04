@@ -82,18 +82,18 @@ python main.py
 [![Run Now](https://img.shields.io/badge/▶️-Run_Now-success?style=for-the-badge)](main.py)
 [![Configuration](https://img.shields.io/badge/⚙️-Edit_Config-blue?style=for-the-badge)](config.ini)
 
-You'll be asked:
+You'll be asked: 
+1. **CHOOSE** - I AM RECOMEND 3
+2. **🔢 Threads** — (e.g., 100)
 
-1. **🔢 Threads** — (e.g., 100)
-
-2. **🌐 Proxy Type**
+3. **🌐 Proxy Type** [RECOMMENDING A 4]
    - [![HTTP](https://img.shields.io/badge/1-HTTP-orange?style=flat-square)](#)
    - [![SOCKS4](https://img.shields.io/badge/2-SOCKS4-blue?style=flat-square)](#)
    - [![SOCKS5](https://img.shields.io/badge/3-SOCKS5-green?style=flat-square)](#)
    - [![NONE](https://img.shields.io/badge/4-NONE-red?style=flat-square)](#)
    - [![Auto Scraper](https://img.shields.io/badge/5-Auto_Scraper-purple?style=flat-square)](#)
 
-3. **🖥 Display Mode**
+4. **🖥 Display Mode**
    - [![UI Mode](https://img.shields.io/badge/1-UI_Mode-success?style=flat-square)](#)
    - [![Log Mode](https://img.shields.io/badge/2-Log_Mode-info?style=flat-square)](#)
 
